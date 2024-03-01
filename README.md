@@ -51,5 +51,5 @@ There is a need to address the root causes of terrorism and to develop effective
 
 Conclusion
 
-This Terrorism Dashboard is the first task as an power bi developer intern at InternCareer. The goal of this project is to create a comprehensive and informative dashboard that visualizes global terrorism trends and patterns.
+The goal of this project is to create a comprehensive and informative dashboard that visualizes global terrorism trends and patterns.
 
